@@ -14,7 +14,7 @@
 
 -----------------------------------------------
 `<url>/admin` (Database Backend)<br>
-id = 'admin' | pass = 'admin'<br>
+id = 'tarushi' | pass = 'admin'<br>
 Register for admin login in database backend!!
 
 -----------------------------------------------
